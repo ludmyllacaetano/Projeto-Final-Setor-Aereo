@@ -12,7 +12,6 @@ Projeto Final do Bootcamp Data Analytics 2024 desenvolvido pelas Squads Rita Lev
   - informações sobre as aeronaves
   - tempo de voo, desvio de rotas e outras.
 
-
 ## Análise dos dados
 
 ### Análise de Companhias Aéreas
@@ -42,4 +41,12 @@ Projeto Final do Bootcamp Data Analytics 2024 desenvolvido pelas Squads Rita Lev
 2- Quais os fatores mais correlacionados com o atraso de um voo?
 
 ### Modelagem:
-1)	Construa um modelo de regressão linear em que queremos estimar o tempo de atraso de um voo, considere o atraso da partida variável (DepDelayMinutes). Lembre-se de construir variáveis dummy a partir de categorias como: mês do ano e rotas específicas.   
+1)	Construa um modelo de regressão linear em que queremos estimar o tempo de atraso de um voo, considere o atraso da partida variável (DepDelayMinutes). Lembre-se de construir variáveis dummy a partir de categorias como: mês do ano e rotas específicas.
+
+## Apresentação do projeto
+
+<!-- [![Assista a apresentação](https://github.com/user-attachments/assets/98f48d04-9de0-4dbc-94e4-1d6605966017)](http://www.youtube.com/watch?v=V3s3uWntt5Y?si=GTsHvZ9SNjt9o7DZ) -->
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=V3s3uWntt5Y?si=vRzcn20jIuu4c4Az
+" target="_blank"><img src="https://github.com/user-attachments/assets/98f48d04-9de0-4dbc-94e4-1d6605966017" 
+alt="Assista a apresentação" width="240" height="180" border="10" /></a>
